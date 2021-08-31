@@ -1,0 +1,23 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "A IoT platorm - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/platziverse.git"
+  },
+  "author": "Jhon Sebastian Bohorquez Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/platzi/platziverse/issues"
+  },
+  "homepage": "https://github.com/platzi/platziverse#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
